@@ -57,7 +57,7 @@ spec:
     rules:
         -   http:
                 paths:
-                    -   path: /mild-temper(/|$)(.*)
+                    -   path: /varun-solo(/|$)(.*)
                         backend:
                             serviceName: varun-solo-microservice-service
                             servicePort: 30201
