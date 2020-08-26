@@ -3,6 +3,7 @@
 # Declare variables to be passed into your templates.
 
 releaseType: stable
+ecr: 633102329196.dkr.ecr.us-east-2.amazonaws.com
 image: quarkus-microservice
 
 #replicaCount: 1
